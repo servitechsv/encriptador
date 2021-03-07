@@ -1,0 +1,2 @@
+# encriptador
+encritpta tus script
